@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [YourWelcome](https://yourwelcome.com/)
+- 🔭 I’m currently working on [Dirayaah](https://Dirayaah.com/)
 
-- 🌱 I’m currently learning **Problem Solving, System Design, Software Architecture**
-
-- 🤝 I’m looking for help with [Tarteel](https://www.tarteel.io/)
+- 🌱 I’m currently learning **System Design, and Software Architecture**
 
 - 👨‍💻 Checkout my website [https://ahmed-hussein.com/](https://ahmed-hussein.com/)
 
