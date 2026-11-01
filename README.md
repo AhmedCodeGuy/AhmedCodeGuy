@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum 👋, I'm Ahmed</h1>
+<h1 align="center">Assalamu Alaikum 👋, I'm Ahmed Hussein El-Najjar</h1>
 
-- 💼 I’m currently working on: [َQuran.com](https://Quran.com/) [Quran Foundation](http://quran.foundation/) [Quran Reflect](https://quranreflect.com/)
-- 📫 How to reach me: **ahmedhussein.developer@gmail.com**
+- 💼 Working @ [َQuran.com](https://Quran.com/) [Quran.foundation](https://quran.foundation/) [Quran.org](https://quran.org/)
+- 📫 Reach me @ **ahmed.h.elnajjar@gmail.com**
